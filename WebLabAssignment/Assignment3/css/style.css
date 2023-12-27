@@ -1,0 +1,390 @@
+.images1{
+    width:100px;
+}
+
+
+.seven{
+    float: right;
+    margin-right: 10px;
+    margin-top:-12.5px;
+    
+
+}
+.select1{
+    border:0px;
+
+}
+.button1{
+    height:35px;
+    background-color: red;
+    color:white;
+    border:0px;
+    font-weight: bold;
+    padding:10px;
+}
+
+.a1{
+    text-decoration: none;
+    color: black;
+}
+.ul{
+    list-style: none;
+}
+.pr1{
+    text-align: center;
+    font-size: 10px;
+    color:red;
+    margin-bottom:-24px;
+}
+.improved{
+    height: 80px;
+    border: 0px solid black;
+    padding:200px;
+    padding-top: 30px;
+    padding-bottom: 180px;
+
+}
+.sales{
+    text-align: center;
+    margin-bottom: -10px;
+
+}
+.fifteen{
+    text-align: center;
+}
+.for{
+    margin-left: 277px;
+    height:30px;
+    margin-top: 28px;
+    font-size: 10px;
+    font-weight:bold;
+    background-color: red;
+    color:white;
+    border:0px;
+}
+.see{
+    margin-left: 9px;
+    height:30px;
+    font-size: 10px;
+    font-weight:bold;
+    border:1px solid blue;
+    color: blue;
+}
+
+
+.process{
+    border: 0px solid black;
+    padding:100px;
+    height:500px;
+    padding-bottom: 0px;
+    padding-top: 10px;
+
+}
+.our{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom:-4px;
+}
+    
+
+.design{
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+    color:rgb(49, 41, 41);
+    font-stretch:wider;
+
+}
+.pen{
+    width:290px;
+    height:300px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.require{
+    float:right;
+    margin-right:245px;
+    margin-top: 0px;
+}
+.collecting{
+    float:right;
+    margin-right:40px;
+    margin-top: 20px;
+}
+.one{
+    margin-left: 500px;
+    margin-top:-270px;
+}
+/* .number1{
+    border-radius: 5px;
+    height: 50px;
+    width: 50px;
+    background-color: lightslategray;
+    margin-left: 500px;
+} */
+.prototype{
+    padding:150px;
+    padding-top: 12px;
+}
+
+.two{
+    margin-left: 15px;
+    margin-left: 98.2px;
+
+}
+.pro{
+    margin-top: -10px;
+    margin-left: 85px;
+    margin-bottom: 0px;
+}
+.systum{
+    margin-left: 85px;
+    margin-top: 35px;
+
+}
+.prototyping{
+    float:right;
+    margin-top: -262.9px;
+    height:290px;
+    width:275px;
+    margin-right: 50px;
+}
+.programme{
+    padding:200px;
+    border: 0px solid black;
+    padding-top: 0px;
+    margin-top: -111px;
+    padding-bottom: 60px;
+    padding-right:0px;
+
+
+}
+
+
+.deployment{
+    float:left;
+    margin-top: 30px;
+    width:290px;
+    height:300px;
+    margin-left: 10px;
+}
+.is{margin-left: 310px;
+    margin-top: -10px;
+
+}
+.finished{
+    margin-left:315px;
+    margin-top: -30px;
+}
+.you{
+    margin-left: 330px;
+    margin-top:30px;
+}
+.maintain{
+    padding:150px;
+    border: 0px solid black;
+    padding-top: +20px;
+    margin-top: -40px;
+}
+
+.supportandmaintanance{
+    margin-left:70px ;
+    margin-top:0px ;
+    margin-top:30px;
+
+}
+.and{
+    margin-left: 60px;
+    margin-top:20px;
+
+}
+.software{
+    margin-left: 60px;
+    margin-top:60px;
+
+}
+.jpg{
+    float:right;
+    height:290px;
+    width:275px;
+    margin-right: 50px;
+}
+.tailored{
+    border:0px solid black;
+    padding-left:180px;
+    padding-bottom: 0px;
+    margin-bottom: 92px;
+}
+#sol{
+    color: blue;
+    font-size:small;
+}
+.accounting{
+    margin-bottom: -20px;
+}
+.devansh{
+    border:0px solid black;
+    height:399.90px;
+    margin-top: -60px;
+
+}
+.harshit{
+    border:0.5px solid black;
+    height:300px;
+    width:200px;
+    float:right;
+    margin-right: 239px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-left: 0px;
+
+}
+.chasma{
+    border:1px solid black;
+    width:165px;
+    height:100px;
+    margin-left: 18.6px;
+    border-radius: 3.1px;
+    background-color: rgb(211, 211, 211);
+    
+    
+
+
+}
+.tanay{
+    border:0.5px solid black;
+    height:300px;
+    width:200px;
+    float:right;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    
+    
+    
+
+}
+.guitar{
+    border:1px solid black;
+    width:165px;
+    height:100px;
+    margin-left: 18.6px;
+    border-radius: 3.1px;
+    background-color: rgb(211, 211, 211);
+    
+
+    
+    
+
+
+}
+.rahul{border:0.5px solid black;
+    height:300px;
+    width:200px;
+    float:right;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+
+}
+.kanpur{border:1px solid black;
+    width:165px;
+    height:100px;
+    margin-left: 18.6px;
+    border-radius: 3.1px;
+    background-color: rgb(211, 211, 211);
+    
+
+}
+.kartik{border:0.5px solid black;
+    height:300px;
+    width:200px;
+    float:right;
+    border-top: 0px;
+    border-bottom: 0px;
+    
+
+
+}
+.sutta{border:1px solid black;
+    width:165px;
+    height:100px;
+    margin-left: 18.6px;
+    border-radius: 3.1px;
+    background-color: rgb(211, 211, 211);
+    
+
+}
+.scale{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: 20px ;
+
+}
+.time{
+    margin-left: 20px;
+    margin-top: -20px;
+
+}
+.mid{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: 20px ;
+
+}
+.curr{
+    margin-left: 20px;
+    margin-top: -5px;
+
+}
+.dev{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: 20px ;
+
+
+}
+.acc{
+    margin-left: 20px;
+    
+    margin-top: 20px ;
+
+}
+.tants{
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: 20px ;
+
+}
+.line{
+    margin-left: 20px;
+    
+    margin-top: 15px ;
+    
+
+}
+.blue1{height:20px;
+width: 20x;
+}
+.black{
+    height:20px;
+width: 20x;
+
+}
+.yellow{
+    height:20px;
+width: 20x;
+
+}
+.blue2{
+    height:20px;
+width: 20x;
+
+}
+
+
+
+
+
